@@ -1,3 +1,4 @@
+/*題目:2554	結果:測試通過 (14/14)	時間:21 ms	空間:256 KB	程式碼:3178 B	編譯器:(C++_GCC4w64)*/
 #include<iostream>
 #include<string>
 using namespace std;
